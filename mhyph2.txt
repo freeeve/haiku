@@ -13197,7 +13197,6 @@ barĨryĨ-nebĨuĨly
 barĨryĨ-piĨly
 barĨryĨ-wavĨy
 BarĨryĨmore
-barĨrĨ-
 BarĨrĨ-s
 BarĨsac
 barĨspoon
@@ -13221,7 +13220,6 @@ BarĨton
 BarĨtonĨville
 BarĨtoĨlomĨmeĨo
 BarĨtoĨlozĨzi
-BarĨtoĨloĨmĨ-
 BarĨtram
 BarĨtĨ-k
 BarĨuch
@@ -13538,7 +13536,6 @@ BauĨhaus
 bauĨhinĨiĨa
 BauĨm
 BauĨmeisĨter
-BauĨmĨ-
 BauĨru
 bauĨson
 bauĨsond
@@ -14779,7 +14776,6 @@ BerĨnouilĨli
 BerĨnoulĨli
 BerĨnoulĨli'sĨ prinĨciĨple
 BerĨnoulĨliĨan
-BerĨoĨ-
 berĨretĨta
 BerĨri
 berĨried
@@ -16091,7 +16087,6 @@ biĨdenĨticĨuĨlate
 biĨdet
 biĨdi
 biĨdiĨrecĨtionĨal
-BiĨdĨ-
 biĨenĨniĨa
 biĨenĨniĨal
 biĨenĨniĨalĨly
@@ -16789,7 +16784,6 @@ BlaĨgoĨveshĨchensk
 BlaĨgoĨveĨshchensk
 BlaĨmey
 blaĨs
-blaĨsĨ-
 blaĨtant
 blaĨtantĨly
 blaĨtanĨcy
@@ -17432,7 +17426,6 @@ bodĨyĨcheck
 bodĨyĨguard
 bodĨyĨing
 bodĨyĨwork
-BodĨ-
 BoehmĨite
 BoehmĨiĨan
 BoehĨme
@@ -17610,7 +17603,6 @@ bomĨbiĨlla
 bomĨborĨa
 bomĨbous
 bomĨbyĨcid
-bomĨbĨ-
 Bon
 bonĨ viĨvant
 bonĨ voĨyage
@@ -18106,7 +18098,6 @@ botĨuĨliĨnusĨes
 BotĨvinĨnik
 Bouar
 BouaĨk
-BouaĨkĨ-
 bouche
 boud
 bouffe
@@ -18214,12 +18205,10 @@ bouĨch
 BouĨchard
 BouĨcher
 bouĨchon
-BouĨchĨ-
 bouĨchĨ-e
 BouĨciĨcault
 bouĨcl
 bouĨcle
-bouĨclĨ-
 bouĨdeuse
 BouĨdicĨca
 bouĨdoir
@@ -18447,7 +18436,6 @@ boĨgong
 BoĨgor
 BoĨgoĨt
 BoĨgoĨta
-BoĨgoĨtĨ-
 boĨgus
 BoĨguĨslawĨsky
 boĨgy
@@ -18889,7 +18877,6 @@ brasĨsiere
 brasĨsiĨ-re
 brasĨsiĨca
 brasĨsiĨcaĨceous
-BrasĨsĨ-
 brat
 BratĨtain
 bratĨtice
@@ -19209,7 +19196,6 @@ BreĨscia
 BreĨscian
 BreĨtagne
 breĨtelle
-breĨtesĨsĨ-
 BreĨton
 breĨtĨ-che
 breĨva
@@ -19498,7 +19484,6 @@ BriĨseĨis
 BriĨseĨus
 BriĨsingĨaĨmen
 briĨsure
-briĨsĨ-
 BriĨtanĨnic
 BriĨtanĨnicĨus
 BriĨtanĨniĨa
@@ -19628,7 +19613,6 @@ BronĨt
 BronĨtes
 bronĨtoĨsaur
 bronĨtoĨsauĨrus
-BronĨtĨ-
 BronĨziĨno
 broo
 brooch
@@ -19694,7 +19678,6 @@ brought
 broughĨam
 broughĨta
 broughĨtas
-brouilĨlĨ-
 Broun
 brouĨhaĨha
 BrouĨwer
@@ -19744,7 +19727,6 @@ broĨch
 broĨchanĨtite
 broĨchette
 broĨchure
-broĨchĨ-
 broĨdeĨrieĨ anĨglaise
 BroĨdie
 broĨdie
@@ -19886,7 +19868,6 @@ bruĨin
 bruĨja
 bruĨjo
 BruĨle
-bruĨlĨ-
 bruĨlĨ-e
 BruĨmaire
 bruĨmal
@@ -20920,7 +20901,6 @@ buĨrelĨly
 buĨret
 buĨrette
 buĨreĨlage
-buĨreĨlĨ-
 BuĨri
 buĨrin
 buĨroo
@@ -21036,7 +21016,6 @@ byĨwoĨner
 ByĨzanĨtinĨism
 ByĨzanĨtiĨum
 ByĨzas
-BĨ-bĨ-
 BĨ-rĨ-ny
 BĨ-tardĨ-MonĨtraĨchet
 BĨ-cĨquer
@@ -21070,7 +21049,6 @@ BĨziers
 CĨ batĨterĨy
 CĨ hoĨriĨzon
 C's
-CĨ--
 cĨ-axĨes
 cĨ-axĨis
 CĨ-biĨas
@@ -21646,7 +21624,6 @@ CalĨviĨna
 calĨviĨtiĨes
 calĨvous
 calĨvus
-CalĨvĨ-
 calĨyĨcate
 CalĨyĨce
 calĨyĨces
@@ -21886,7 +21863,6 @@ canĨaĨlise
 canĨaĨlize
 CanĨaĨneĨan
 canĨaĨp
-canĨaĨpĨ-
 CanĨaĨstoĨta
 CanĨberĨra
 CanĨby
@@ -23760,7 +23736,6 @@ caĨbooĨdle
 caĨboshed
 caĨbossed
 CaĨbot
-caĨboĨchĨ-
 caĨboĨclo
 CaĨboĨraĨ BasĨsa
 CaĨbral
@@ -23828,7 +23803,6 @@ caĨduĨcous
 caĨella
 caĨf
 caĨfard
-caĨfĨ-
 CaĨgliaĨri
 CaĨgliosĨtro
 CaĨglioĨstro
@@ -24711,7 +24685,6 @@ cerĨcarĨiĨa
 cerĨcarĨiĨae
 cerĨcarĨiĨal
 cerĨcarĨiĨan
-cerĨceĨlĨ-
 cerĨceĨlĨ-e
 cerĨci
 cerĨcis
@@ -24828,9 +24801,7 @@ CeyĨlon
 CeyĨlonĨ moss
 CeyĨloĨnese
 ceĨaĨnoĨthus
-CeĨaĨrĨ-
 CeĨb
-CeĨbĨ-
 ceĨcal
 CeĨcile
 CeĨcilĨia
@@ -25146,7 +25117,6 @@ champ
 ChampsĨ ĨlyĨs
 champĨer
 champĨleĨv
-champĨleĨvĨ-
 champĨy
 chamĨaeĨphyte
 chamĨber
@@ -25452,7 +25422,6 @@ charĨcuĨtier
 CharĨdin
 CharĨdon
 CharĨdonĨnet
-charĨgĨ-
 charĨgĨfaires
 charĨing
 CharĨingĨ Cross
@@ -25585,7 +25554,6 @@ chasĨs
 chasĨseur
 chasĨsis
 ChasĨsiĨdim
-chasĨsĨ-
 chasĨsĨ-d
 chasĨsĨ-ing
 chasĨten
@@ -25660,7 +25628,6 @@ chay
 chayĨa
 chayĨaĨroot
 ChayĨefĨsky
-chaĨ-nĨ-
 chaĨbouk
 ChaĨbriĨer
 ChaĨbrol
@@ -26544,7 +26511,6 @@ ChiĨnook
 ChiĨnookĨ JarĨgon
 ChiĨnookĨ salĨmon
 ChiĨnookĨan
-chiĨnĨ-
 chiĨonĨoĨdoxĨa
 ChiĨos
 ChiĨoĨne
@@ -26681,7 +26647,6 @@ chloĨroĨspiĨnel
 chloĨroĨthiĨaĨzide
 chloĨroĨtriĨfluĨoĨroĨethĨylĨene
 chloĨroĨtriĨfluĨoĨroĨmethĨane
-ChloĨ-
 chm
 Choate
 chock
@@ -27518,7 +27483,6 @@ cinĨqueĨcenĨto
 cinĨqueĨdeĨa
 CinĨyĨras
 CinĨzaĨno
-cinĨ-
 cinĨ-aste
 cipĨoĨlin
 cipĨpi
@@ -27923,11 +27887,9 @@ ciĨpherĨer
 CiĨpus
 ciĨr
 CiĨrenĨcesĨter
-ciĨrĨ-
 ciĨseaux
 ciĨseĨleur
 ciĨseĨlure
-ciĨseĨlĨ-
 ciĨtaĨtion
 ciĨtaĨtoĨry
 CiĨthaeĨron
@@ -28388,7 +28350,6 @@ CleĨanĨtha
 CleĨanĨthes
 CleĨarĨchus
 CleĨburne
-cleĨchĨ-
 CleĨmens
 CleĨmenĨceau
 CleĨmenĨti
@@ -28513,7 +28474,6 @@ cliĨanĨthus
 cliĨch
 cliĨche
 CliĨchy
-cliĨchĨ-
 CliĨde
 cliĨent
 cliĨentĨage
@@ -28609,7 +28569,6 @@ cloiĨson
 cloiĨsonĨn
 CloiĨsonĨnisme
 CloiĨsonĨnist
-cloiĨsonĨnĨ-
 cloke
 clomb
 clomp
@@ -28726,7 +28685,6 @@ cloĨnus
 cloĨnusĨes
 cloĨque
 CloĨquet
-cloĨquĨ-
 CloĨrinĨda
 CloĨris
 cloĨsure
@@ -28752,7 +28710,6 @@ cloĨverĨleafĨ aerĨiĨal
 cloĨverĨy
 CloĨvis
 cloĨvisĨ point
-CloĨ-
 club
 clubĨ sandĨwich
 clubĨaĨbilĨiĨty
@@ -28830,7 +28787,6 @@ ClyĨtaemĨnesĨra
 ClyĨtaemĨnesĨtra
 ClyĨtemĨnesĨtra
 ClyĨtiĨus
-ClyĨtiĨ-
 cnemĨiĨdes
 cneĨmic
 cneĨmis
@@ -30096,7 +30052,6 @@ comĨmuĨniĨcaĨtiveĨness
 comĨmuĨniĨcaĨtor
 comĨmuĨniĨcaĨtoĨry
 comĨmuĨniĨqu
-comĨmuĨniĨquĨ-
 comĨmuĨniĨtal
 comĨmuĨniĨtarĨiĨan
 comĨmuĨniĨty
@@ -30403,7 +30358,6 @@ comĨpoĨnent
 comĨpoĨnentĨed
 comĨpoĨnenĨtial
 comĨpoĨny
-comĨpoĨnĨ-
 comĨpoĨsite
 comĨpoĨsiteĨ numĨber
 comĨpoĨsiteĨ phoĨtoĨgraph
@@ -30901,7 +30855,6 @@ conĨdyĨlomĨaĨtous
 conĨdyĨloĨma
 conĨdyĨloĨmas
 conĨdyĨloĨmaĨta
-ConĨdĨ-
 ConĨelĨrad
 ConĨesĨtoĨgaĨ wagĨon
 conĨfab
@@ -31199,7 +31152,6 @@ conĨgruĨiĨty
 conĨgruĨous
 conĨgruĨousĨly
 conĨgruĨousĨness
-conĨgĨ-
 conĨic
 conĨicĨ proĨjecĨtion
 conĨicĨ secĨtion
@@ -31473,7 +31425,6 @@ conĨsolĨiĨtoĨriĨly
 conĨsolĨiĨtoĨriĨness
 conĨsolĨute
 conĨsomĨm
-conĨsomĨmĨ-
 conĨsonĨanĨtize
 conĨsonĨanĨtized
 conĨsonĨanĨtizĨing
@@ -32042,7 +31993,6 @@ conĨtuĨmeĨly
 conĨtuĨsion
 conĨtuĨsioned
 conĨtuĨsive
-conĨtĨ-
 conĨure
 conĨurĨbaĨtion
 conĨvalĨlarĨiĨaĨceous
@@ -33457,7 +33407,6 @@ couthĨy
 couĨcal
 couĨchant
 couĨchette
-couĨchĨ-
 couĨd
 CouĨdersĨport
 CouĨe
@@ -33488,7 +33437,6 @@ couĨpleĨment
 couĨpling
 couĨpon
 couĨponĨless
-couĨpĨ-
 couĨrant
 couĨrante
 couĨraĨgeous
@@ -34128,7 +34076,6 @@ coĨpeĨpod
 coĨpeĨsetĨic
 coĨpeĨsetĨtic
 CoĨpiague
-CoĨpiaĨpĨ-
 coĨpiĨlot
 coĨpiĨosĨiĨty
 coĨpiĨous
@@ -34215,7 +34162,6 @@ CoĨroĨnis
 coĨroĨnoĨgraph
 CoĨroĨnus
 coĨroĨzo
-CoĨrumĨbĨ-
 coĨrunĨdum
 CoĨrunĨna
 coĨrusĨcant
@@ -34839,7 +34785,6 @@ creĨnaĨtion
 creĨnelle
 creĨnelled
 creĨnelĨling
-creĨnelĨlĨ-
 CreĨole
 creĨole
 creĨoleĨ-fish
@@ -35033,7 +34978,6 @@ critĨter
 critĨtur
 crizĨzle
 criĨbelĨlum
-criĨblĨ-
 criĨcoid
 criĨcoĨphaĨrynĨgeĨal
 criĨer
@@ -35110,7 +35054,6 @@ CromĨwelĨliĨan
 crone
 cronk
 cronĨish
-CronĨjĨ-
 crood
 crook
 CrookesĨ raĨdiĨomĨeĨter
@@ -36227,7 +36170,6 @@ cuĨda
 CuĨfic
 CuĨi
 CuĨiaĨborĨ CuĨyaĨb
-CuĨiaĨbĨ-
 cuĨing
 cuĨiĨ-jo
 CuĨkor
@@ -36246,7 +36188,6 @@ cuĨlottes
 CuĨmae
 CuĨmaeĨan
 CuĨmaĨn
-CuĨmaĨnĨ-
 cuĨmaĨrin
 cuĨmaĨrone
 cuĨmulĨet
@@ -36363,7 +36304,6 @@ CuĨriĨtyĨba
 cuĨriĨum
 cuĨrule
 cuĨruleĨ chair
-cuĨrĨ-
 cuĨrĨ-s
 CuĨsanĨus
 cuĨsec
@@ -36387,8 +36327,6 @@ cuĨvette
 CuĨviĨer
 cuĨvĨ-e
 CuĨyaĨb
-CuĨyaĨbĨ-
-CybĨeĨle
 cyc
 cycĨaĨdaĨceous
 cycĨlas
@@ -36502,7 +36440,6 @@ cyĨan
 cyĨanĨaĨmid
 cyĨanĨaĨmide
 cyĨanĨeĨous
-CyĨanĨeĨ-
 cyĨanĨic
 cyĨanĨicĨ acĨid
 cyĨanĨoĨgen
@@ -36886,7 +36823,6 @@ DagĨna
 DagĨney
 DagĨny
 DagĨwood
-DagĨ-
 dah
 DahlĨgren
 dahlĨia
@@ -37090,12 +37026,10 @@ DanĨaĨi
 DanĨaĨidĨeĨan
 DanĨaĨus
 DanĨaĨ-n
-DanĨaĨ-
 danĨburĨite
 DanĨburĨy
 danĨcette
 danĨcetĨty
-danĨcetĨtĨ-
 danĨcetĨtĨ-e
 danĨder
 danĨdeĨliĨon
@@ -37366,7 +37300,6 @@ dauĨphin
 dauĨphine
 dauĨphinĨess
 DauĨphiĨn
-DauĨphiĨnĨ-
 Dave
 DavĨenĨport
 davĨenĨport
@@ -37438,7 +37371,6 @@ dazĨzler
 dazĨzlingĨly
 daĨcha
 DaĨchau
-DaĨchĨ-
 DaĨciĨa
 daĨcoit
 daĨcoitĨies
@@ -37990,7 +37922,6 @@ DelĨaĨvan
 DelĨaĨware
 DelĨaĨwarĨeĨan
 DelĨbert
-DelĨcasĨsĨ-
 delĨeĨgate
 delĨeĨgatĨed
 delĨeĨgatĨing
@@ -40642,7 +40573,6 @@ deĨvelĨopĨing
 deĨvelĨopĨment
 deĨvelĨopĨmenĨtal
 deĨvelĨopĨmenĨtaĨry
-deĨvelĨopĨpĨ-
 DeĨvenĨter
 deĨvest
 DeĨvi
@@ -41177,7 +41107,6 @@ dipĨloĨpod
 dipĨloĨsteĨmoĨnous
 dipĨloĨsteĨmoĨny
 dipĨloĨtene
-dipĨloĨ-
 dipĨneeĨdle
 dipĨnoĨan
 dipĨoĨdy
@@ -42397,7 +42326,6 @@ disĨtinĨguishĨer
 disĨtinĨguishĨing
 disĨtinĨguishĨingĨly
 disĨtinĨguishĨment
-disĨtinĨguĨ-
 disĨtinĨguĨ-e
 disĨtiĨchal
 disĨtiĨchous
@@ -43496,7 +43424,6 @@ diĨvorcĨer
 diĨvorcĨing
 diĨvorĨcee
 diĨvorĨcive
-diĨvorĨcĨ-
 diĨvorĨcĨ-e
 diĨvulge
 diĨvulged
@@ -44633,8 +44560,6 @@ DoĨroĨbo
 DoĨrus
 doĨry
 doĨryĨman
-DoĨrĨ-
-doĨrĨ-
 doĨsimĨeĨter
 doĨsimĨeĨtry
 doĨsiĨmetĨric
@@ -45682,7 +45607,6 @@ DuĨpont
 duĨponĨdiĨi
 duĨponĨdiĨus
 DuĨpr
-DuĨprĨ-
 DuĨqueĨ deĨ CaĨxiĨas
 DuĨquesne
 duĨra
@@ -45952,21 +45876,15 @@ DzyuĨbin
 DĨ-maĨso
 dĨ-bĨuĨtant
 dĨ-bĨuĨtante
-dĨ-bouĨchĨ-
-dĨ-boĨ-tĨ-
 dĨ-bris
 dĨ-but
-dĨ-clasĨsĨ-
 dĨ-clasĨsĨ-e
 dĨ-colleĨtage
-dĨ-colleĨtĨ-
 dĨ-cor
 dĨ-couĨpage
-dĨ-gaĨgĨ-
 dĨ-jeuĨner
 dĨ-marche
 dĨ-menĨti
-dĨ-moĨdĨ-
 dĨ-parĨteĨment
 DĨ-siĨrĨ-e
 dĨ-tente
@@ -47234,7 +47152,6 @@ emĨbowĨelĨing
 emĨbowĨelĨling
 emĨbowĨer
 emĨbowĨment
-emĨboĨ-tĨ-
 emĨboĨlecĨtoĨmy
 emĨboĨlism
 emĨboĨlisĨmic
@@ -47453,7 +47370,6 @@ emĨployĨment
 emĨployĨmentĨ aĨgenĨcy
 emĨployĨmentĨ exĨchange
 EmĨployĨmentĨ SerĨviceĨ AĨgenĨcy
-emĨployĨ-
 emĨpoiĨson
 emĨpoiĨsonĨment
 emĨpolĨder
@@ -47615,7 +47531,6 @@ enĨcaseĨment
 enĨcash
 enĨcasĨing
 enĨcasĨtered
-enĨcasĨtrĨ-
 enĨcausĨtic
 enĨcausĨtiĨcalĨly
 enĨceinte
@@ -48012,7 +47927,6 @@ enĨgagĨingĨness
 enĨgarĨland
 EnĨgaĨdine
 enĨgaĨgee
-enĨgaĨgĨ-
 EnĨgels
 EnĨgelĨberĨta
 enĨgenĨder
@@ -48164,7 +48078,6 @@ EnĨnoĨsigĨaeĨus
 enĨnui
 enĨnuyĨant
 enĨnuyĨante
-enĨnuyĨ-
 enĨnuyĨ-e
 enĨnuyĨ-es
 enĨnuyĨ-s
@@ -49136,7 +49049,6 @@ esĨcarĨgot
 esĨcarĨgoĨtiĨ-re
 esĨcarĨteled
 esĨcarĨtelĨly
-esĨcarĨteĨlĨ-
 esĨcarĨteĨlĨ-e
 EsĨcaut
 esĨcaĨdrille
@@ -50836,7 +50748,6 @@ exĨpoĨsiĨtion
 exĨpoĨsiĨtionĨal
 exĨpoĨsure
 exĨpoĨsureĨ meĨter
-exĨpoĨsĨ-
 exĨpress
 exĨpressĨ riĨfle
 exĨpressĨage
@@ -53695,7 +53606,6 @@ fauĨnal
 fauĨnalĨly
 FauĨnus
 FauĨr
-FauĨrĨ-
 FauĨstine
 FauĨstiĨna
 FauĨsto
@@ -53727,7 +53637,6 @@ fazĨing
 faĨbaĨceous
 FaĨbens
 FaĨberĨg
-FaĨberĨgĨ-
 FaĨbiĨan
 FaĨbiĨanĨ SoĨciĨeĨty
 FaĨbiĨanĨism
@@ -55376,7 +55285,6 @@ fiĨanĨce
 fiĨanĨcee
 fiĨanĨchetĨti
 fiĨanĨchetĨto
-fiĨanĨcĨ-
 fiĨanĨcĨ-e
 FiĨanĨna
 FiĨanĨnaĨ Fail
@@ -55488,7 +55396,6 @@ FiĨlipĨpo
 fiĨlose
 fiĨloĨsus
 fiĨlum
-fiĨlĨ-
 fiĨnal
 fiĨnalĨ cause
 fiĨnals
@@ -55626,7 +55533,6 @@ flamĨboyĨance
 flamĨboyĨant
 flamĨboyĨantĨly
 flamĨboyĨanĨcy
-flamĨbĨ-
 flamĨbĨ-ed
 flamĨer
 flamĨing
@@ -57176,7 +57082,6 @@ forĨlorn
 forĨlornĨ hope
 forĨlornĨly
 forĨlornĨness
-ForĨlĨ-
 forĨmal
 forĨmalĨ lanĨguage
 forĨmalĨ logĨic
@@ -57431,7 +57336,6 @@ FothĨerĨinĨghay
 fou
 FoucĨquet
 fouetĨt
-fouetĨtĨ-
 fought
 foughtĨen
 foul
@@ -57493,7 +57397,6 @@ fourthĨ-diĨmenĨsionĨal
 fourthĨly
 fourĨbagĨger
 fourĨchette
-fourĨchĨ-
 fourĨchĨ-e
 FourĨdrinĨiĨer
 fourĨflushĨer
@@ -57523,7 +57426,6 @@ fouĨmart
 FouĨqu
 FouĨquet
 FouĨquierĨ-TinĨville
-FouĨquĨ-
 FouĨrier
 FouĨriĨer
 FouĨriĨerĨ aĨnalĨyĨsis
@@ -57760,7 +57662,6 @@ franc
 francĨ-tiĨreur
 France
 FrancheĨ-ComĨt
-FrancheĨ-ComĨtĨ-
 Franck
 francsĨ-tiĨreurs
 frangĨer
@@ -57852,7 +57753,6 @@ FranĨ-ois
 frap
 frapĨp
 frapĨping
-frapĨpĨ-
 frass
 FrasĨcatĨi
 frat
@@ -57904,7 +57804,6 @@ fraĨterĨnal
 fraĨterĨnalĨism
 fraĨterĨnalĨly
 fraĨterĨniĨty
-fraĨterĨniĨtĨ-
 fraĨtry
 FraĨvaĨshi
 FraĨzer
@@ -58369,7 +58268,6 @@ friĨsette
 friĨseur
 FriĨsian
 FriĨsianĨ IsĨlands
-friĨsĨ-
 friĨtilĨlarĨy
 FriĨuĨli
 FriĨuĨliĨ-VeĨneĨziĨaĨ GiuĨlia
@@ -59048,7 +58946,6 @@ fuĨmiĨgaĨtor
 fuĨmiĨgaĨtoĨry
 fuĨmiĨtoĨry
 fuĨmuĨlus
-fuĨmĨ-
 fuĨnamĨbuĨlism
 fuĨnamĨbuĨlist
 fuĨner
@@ -61351,7 +61248,6 @@ GiotĨto
 GioĨconĨda
 gioĨcoĨso
 GioĨno
-GioĨsueĨ-
 GioĨvanĨna
 GioĨvanĨni
 GioĨvanĨniĨda
@@ -61681,7 +61577,6 @@ glaĨciĨaĨtion
 glaĨciĨolĨoĨgist
 glaĨciĨolĨoĨgy
 glaĨciĨoĨlogĨiĨcal
-glaĨcĨ-
 glaĨcĨ-ed
 glaĨcĨ-ing
 glaĨdiĨi
@@ -62805,7 +62700,6 @@ goutĨiĨer
 goutĨiĨest
 goutĨiĨly
 goutĨiĨness
-goutĨtĨ-
 goutĨweed
 goutĨy
 GouvĨerĨneur
@@ -63892,7 +63786,6 @@ grilĨlades
 grilĨladĨed
 grilĨladĨing
 grilĨlage
-grilĨlĨ-
 grilĨlĨ-e
 grim
 grime
@@ -64204,7 +64097,6 @@ groĨcer
 groĨcerĨies
 groĨcerĨy
 groĨcerĨyĨman
-GroĨfĨ-
 GroĨland
 GroĨliĨer
 groĨma
@@ -64389,11 +64281,9 @@ guaĨnine
 guaĨno
 guaĨnoĨsine
 GuaĨpoĨr
-GuaĨpoĨrĨ-
 guaĨraĨcha
 guaĨraĨni
 GuaĨraĨni
-GuaĨraĨnĨ-
 GuaĨriĨni
 GuaĨriĨno
 GuaĨteĨmaĨla
@@ -64802,7 +64692,6 @@ gutĨturĨalĨly
 gutĨturĨalĨness
 gutĨturĨoĨnaĨsal
 gutĨty
-gutĨtĨ-
 gutĨtĨ-e
 guv
 Guy
@@ -66485,7 +66374,6 @@ harĨmoĨniĨum
 harĨmoĨniĨzaĨtion
 harĨmoĨny
 HarĨmoĨny
-HarĨmoĨthoĨ-
 harĨmoĨtome
 harĨmoĨtomĨic
 HarĨnack
@@ -66878,7 +66766,6 @@ haĨbitĨuĨatĨed
 haĨbitĨuĨatĨing
 haĨbitĨuĨaĨtion
 haĨbitĨuĨe
-haĨbitĨuĨ-
 haĨbitĨuĨ-s
 HaĨbiĨri
 HaĨbiĨru
@@ -70873,7 +70760,6 @@ HoĨniĨaĨra
 HoĨnoĨra
 HoĨnoĨriĨa
 HoĨnoĨriĨus
-HoĨnoĨrĨ-
 HoĨnus
 HoĨpatĨcong
 HoĨpeh
@@ -79194,7 +79080,6 @@ IĨgnace
 IĨgor
 IĨgraine
 iĨguanĨoĨdon
-IĨguasĨsĨ-
 IĨguaĨc
 IĨguaĨcorĨ IĨguasĨs
 iĨguaĨna
@@ -79257,7 +79142,6 @@ IĨnes
 IĨnez
 IĨno
 iĨnyl
-IĨnĨ-nĨ-
 IĨnĨn
 IĨo
 IĨoĨ moth
@@ -79335,7 +79219,6 @@ iĨoĨta
 iĨoĨtaĨcism
 IĨoĨwa
 IĨphidĨaĨmas
-IĨphinĨoĨ-
 IĨphis
 IĨphiĨtiĨon
 IĨpiaĨles
@@ -79783,7 +79666,6 @@ IĨtalĨoĨphil
 IĨtalĨoĨphile
 IĨtasĨca
 IĨtaĨbuĨna
-IĨtaĨjaĨ-
 IĨtaĨlia
 IĨtaĨliaĨ irĨreĨdenĨta
 IĨtaĨlo
@@ -80208,7 +80090,6 @@ jasĨperĨatĨed
 jasĨperĨoid
 jasĨperĨware
 jasĨperĨy
-jasĨpĨ-
 JasĨsy
 Jat
 jauk
@@ -80354,7 +80235,6 @@ JaĨpheth
 JaĨphetĨic
 jaĨponĨiĨca
 JaĨpuĨr
-JaĨpuĨrĨ-
 jaĨpygĨid
 JaĨques
 JaĨrash
@@ -80663,7 +80543,6 @@ JeĨna
 JeĨnuĨfa
 jeĨquerĨiĨty
 jeĨquirĨiĨty
-JeĨquiĨ-
 JeĨrash
 jeĨreed
 JeĨrez
@@ -80680,7 +80559,6 @@ JeĨsus
 JeĨsusĨ freak
 JeĨsĨ-s
 jeĨt
-jeĨtĨ-
 JhanĨsi
 JheĨlum
 jiao
@@ -81135,7 +81013,6 @@ JoĨsie
 JoĨsip
 JoĨsiĨah
 JoĨsiĨas
-JoĨsĨ-
 joĨta
 JoĨtun
 JoĨtunn
@@ -81539,7 +81416,6 @@ juĨrisĨtiĨcal
 juĨrisĨtiĨcalĨly
 juĨror
 JuĨru
-JuĨruĨ-
 juĨry
 juĨryĨ box
 juĨryĨ proĨcess
@@ -81570,7 +81446,6 @@ juĨveĨnilĨiĨa
 juĨveĨnilĨiĨty
 JylĨland
 JymĨmye
-JyĨvĨ-sĨkyĨlĨ-
 JĨ-nos
 jĨ-ger
 JĨ-rĨ-mie
@@ -84208,7 +84083,6 @@ lakĨer
 lakĨing
 lakĨiĨer
 lakĨiĨest
-LakĨmĨ-
 lakĨsa
 LakĨshadĨweepĨ IsĨlands
 lakĨy
@@ -85363,7 +85237,6 @@ laĨmiĨaĨceous
 LaĨmont
 LaĨmouĨreux
 LaĨmus
-laĨmĨ-
 LaĨn
 laĨnate
 laĨnaĨi
@@ -85393,7 +85266,6 @@ laĨodĨiĨceĨan
 LaĨodĨoĨcus
 LaĨomĨeĨdon
 LaĨos
-LaĨothĨoĨ-
 laĨpacĨtic
 LaĨpeer
 laĨpel
@@ -86180,7 +86052,6 @@ leuĨcorĨrheĨal
 leuĨcorĨrhoeĨa
 leuĨcorĨrhoeĨal
 LeuĨcothĨeĨa
-LeuĨcothĨoĨ-
 leuĨcotĨoĨmy
 leuĨcoĨblast
 leuĨcoĨciĨdin
@@ -87191,7 +87062,6 @@ LinĨnet
 LinĨnete
 LinĨneĨan
 LinĨnhe
-LinĨnĨ-
 linĨoĨlenĨicĨ acĨid
 linĨoĨleĨic
 linĨoĨleĨicĨ acĨid
@@ -87486,7 +87356,6 @@ litĨtlish
 litĨtoĨral
 LitĨtoĨria
 LitĨtrow
-LitĨtrĨ-
 litĨtĨ-raĨteur
 litĨtĨraĨteur
 litĨurĨgism
@@ -87627,7 +87496,6 @@ LiĨberĨaĨliĨa
 LiĨberĨtas
 liĨberĨtiĨcide
 liĨberĨtiĨcidĨal
-liĨberĨtĨ-
 LiĨbeĨrec
 LiĨbeĨriĨa
 LiĨbeĨriĨus
@@ -88868,7 +88736,6 @@ loĨmentĨlike
 loĨmenĨtaĨceous
 loĨmenĨtum
 LoĨmond
-LoĨmĨ-
 LoĨney
 loĨnicĨerĨa
 LoĨpatĨniĨkov
@@ -89628,7 +89495,6 @@ LyĨsol
 lyĨsoĨsome
 lyĨsoĨzyme
 LyĨtle
-LĨ-szĨlĨ-
 LĨ-zaĨro
 lĨ-ndĨler
 LĨ-ger
@@ -89660,7 +89526,6 @@ LĨzen
 LĨzowĨ-HolmĨ Bay
 M'NaghĨtenĨ Rules
 MĨ--Ĩ riĨfle
-MĨ--Ĩ-
 MĨ-day
 MĨ-line
 MĨ-seĨries
@@ -90263,7 +90128,6 @@ malm
 MalmesĨburĨy
 MalmĨo
 malmĨsey
-MalmĨ-
 malt
 maltĨ exĨtract
 maltĨ liqĨuor
@@ -90414,9 +90278,7 @@ maĨcaĨbre
 maĨcaĨco
 MaĨcaĨp
 MaĨcaĨpaĨgal
-MaĨcaĨpĨ-
 MaĨceiĨo
-MaĨceiĨ-
 maĨceĨdoine
 MaĨchaeĨrus
 maĨchaiĨra
@@ -90501,7 +90363,6 @@ MaĨeĨbaĨshi
 MaĨeĨwo
 MaĨfiĨa
 maĨfiĨoĨso
-MaĨganĨguĨ-
 MaĨgaĨllaĨnes
 MaĨgelĨlan
 MaĨgenĨ DaĨvid
@@ -90679,7 +90540,6 @@ MaĨlone
 maĨloĨnic
 maĨloĨnicĨ acĨid
 MaĨluĨku
-MaĨlĨ-
 maĨma
 MaĨmalĨlaĨpurĨam
 MaĨmarĨoĨneck
@@ -90693,7 +90553,6 @@ maĨmonĨcilĨlo
 maĨmonĨcilĨlos
 MaĨmou
 MaĨmoĨr
-MaĨmoĨrĨ-
 MaĨmuĨriĨus
 MaĨn
 maĨna
@@ -90985,7 +90844,6 @@ maĨturĨiĨty
 MaĨtuĨta
 maĨtuĨtiĨnal
 maĨtuĨtiĨnalĨly
-maĨtĨ-
 maĨtĨriĨel
 MaĨuĨman
 maĨven
@@ -91476,7 +91334,6 @@ MelĨiĨcerĨtes
 melĨiĨlot
 melĨiĨnite
 MelĨiĨteĨne
-MelĨiĨ-
 MelĨkite
 melĨler
 MelĨlers
@@ -91854,7 +91711,6 @@ MerĨoĨe
 merĨoĨplankĨton
 MerĨoĨvinĨgiĨan
 merĨoĨzoĨite
-MerĨoĨ-
 merĨriĨer
 merĨriĨest
 MerĨriĨly
@@ -94558,7 +94414,6 @@ miĨraĨcidĨiĨal
 miĨraĨcidĨiĨum
 MiĨraĨfloĨres
 miĨri
-MiĨrĨ-
 miĨs
 MiĨscha
 miĨser
@@ -94785,7 +94640,6 @@ MoiĨna
 moiĨr
 MoiĨra
 MoiĨrai
-moiĨrĨ-
 MoiĨseĨyev
 moiĨther
 moke
@@ -94883,12 +94737,10 @@ Mont
 MontĨ CerĨvin
 MontĨ CeĨnis
 MontĨ-deĨ-MarĨsan
-montĨ-deĨ-piĨ-tĨ-
 montĨ-deĨ-piĨt
 MontĨ-SaintĨ-MiĨchel
 month
 monthĨly
-montsĨ-deĨ-piĨ-tĨ-
 montĨbreĨtia
 MontĨbĨliard
 MontĨcalm
@@ -95628,7 +95480,6 @@ mosĨquiĨtoĨfishĨes
 MosĨsi
 mosĨsie
 mosĨso
-MosĨsoĨrĨ-
 mot
 mote
 moteĨy
@@ -95684,7 +95535,6 @@ moue
 moufĨflon
 moufĨlon
 mouilĨl
-mouilĨlĨ-
 MoukĨden
 mould
 mouldĨboard
@@ -97853,7 +97703,6 @@ naĨif
 naĨive
 naĨiveĨly
 naĨiveĨty
-naĨiveĨtĨ-
 naĨiveĨtĨiveĨt
 naĨiĨra
 naĨked
@@ -98068,7 +97917,6 @@ naĨ-veĨly
 naĨ-veĨness
 naĨ-veĨte
 naĨ-veĨty
-naĨ-veĨtĨ-
 NdeĨbeĨle
 NdjaĨmeĨna
 NdoĨla
@@ -98115,7 +97963,6 @@ nebĨuĨlousĨly
 nebĨuĨlousĨness
 nebĨuĨloĨsus
 nebĨuĨly
-nebĨuĨlĨ-
 neck
 NeckĨar
 neckĨband
@@ -98733,7 +98580,6 @@ NewĨtoĨniĨanĨ telĨeĨscope
 next
 NexĨo
 nexĨus
-NexĨ-
 Ney
 NezĨ PerĨc
 NeĨaeĨra
@@ -105212,7 +105058,6 @@ NouĨmĨa
 nouĨrice
 nouĨveauĨ riche
 nouĨveauĨ roĨman
-nouĨveauĨtĨ-
 NouĨvelleĨ Vague
 NouĨvelleĨ-CaĨlĨdoĨnie
 nouĨvelles
@@ -108744,7 +108589,6 @@ OuĨspenĨsky
 ouĨtr
 ouĨtrance
 ouĨtreĨmer
-ouĨtrĨ-
 ouĨzel
 ouĨzo
 over
@@ -109023,7 +108867,6 @@ OĨconĨto
 oĨcoĨtilĨlo
 oĨcoĨtilĨlos
 OĨcypĨeĨte
-OĨcyrĨrhoĨ-
 oĨdaĨlisk
 oĨdaĨlisque
 OĨdell
@@ -112355,7 +112198,6 @@ PaoĨshan
 PaoĨting
 PaoĨtow
 pap
-paperĨmĨ-chĨ-
 PaphĨlaĨgoĨniĨa
 papĨeĨterie
 papĨilĨlar
@@ -112388,7 +112230,6 @@ papĨuĨlose
 papĨyĨraĨceous
 papĨyĨrolĨoĨgist
 papĨyĨrolĨoĨgy
-papĨ-lonĨnĨ-
 par
 Par
 parĨ aĨvion
@@ -113191,7 +113032,6 @@ pasĨsiĨvatĨing
 pasĨsus
 pasĨsusĨes
 PasĨsy
-pasĨsĨ-
 pasĨsĨ-s
 pasĨta
 pasĨtel
@@ -113498,7 +113338,6 @@ payĨoff
 payĨoĨla
 payĨroll
 PayĨsanĨd
-PayĨsanĨdĨ-
 PayĨson
 PayĨton
 pazĨaĨree
@@ -113732,7 +113571,6 @@ PaĨnay
 paĨnaĨda
 PaĨnaĨgiĨa
 PaĨnaĨgiĨas
-PaĨnaĨmĨ-
 paĨnicĨuĨlate
 paĨnicĨuĨlateĨly
 paĨnicĨuĨlatĨed
@@ -113741,7 +113579,6 @@ PaĨnofĨsky
 paĨnoĨcha
 paĨnoĨche
 paĨnus
-paĨnĨ-
 PaĨoĨlo
 paĨpa
 paĨpal
@@ -113779,7 +113616,6 @@ paĨperĨ tape
 paĨperĨ tiĨger
 paĨperĨ-chasĨing
 paĨperĨ-cutĨter
-paĨperĨ-mĨ-chĨ-
 paĨperĨ-shelled
 paĨperĨback
 paĨperĨbark
@@ -113870,8 +113706,6 @@ PaĨraĨiĨba
 paĨraĨliĨpomĨeĨna
 paĨraĨmiĨta
 PaĨraĨn
-PaĨraĨnaĨguĨ-
-PaĨraĨnĨ-
 PaĨraĨshah
 PaĨraĨ-ba
 paĨregĨmeĨnon
@@ -113941,7 +113775,6 @@ paĨroĨtic
 paĨroĨtoid
 paĨrure
 paĨruĨlis
-PaĨrĨ-
 PaĨrĨber
 PaĨsarĨgaĨdae
 PaĨsay
@@ -113954,7 +113787,6 @@ paĨshaĨlic
 paĨshaĨlik
 PaĨsioĨnaĨria
 PaĨsiphĨaĨe
-PaĨsiphĨaĨ-
 PaĨsithĨeĨa
 paĨsoĨ doĨble
 PaĨsoĨliĨni
@@ -114084,7 +113916,6 @@ PaĨviĨa
 PaĨviĨoĨtso
 PaĨvo
 PaĨvoĨnis
-paĨvĨ-
 paĨvĨ-s
 pct
 peĨ-tsaiĨ cabĨbage
@@ -115973,7 +115804,6 @@ PeĨruĨginĨesque
 PeĨruĨgiĨno
 PeĨruĨviĨanĨ bark
 PeĨrĨ-n
-PeĨrĨ-
 PeĨsach
 peĨsade
 PeĨsah
@@ -117076,7 +116906,6 @@ Piaf
 piaffe
 piaffĨing
 PiauĨi
-PiauĨ-
 piazĨze
 PiaĨcenĨza
 PiaĨget
@@ -117252,7 +117081,6 @@ PieĨroĨ diĨ CoĨsiĨmo
 PieĨter
 PieĨterĨmarĨitzĨburg
 PieĨtro
-PieĨtĨ-
 pifĨfle
 pig
 pigĨ iĨron
@@ -117411,7 +117239,6 @@ pineĨy
 ping
 pinge
 pingĨing
-PingĨrĨ-
 pink
 pinkĨ elĨeĨphant
 pinkĨ salĨmon
@@ -117911,7 +117738,6 @@ piĨquantĨly
 piĨquantĨness
 piĨquanĨcy
 piĨquet
-piĨquĨ-
 PiĨraeĨus
 PiĨranĨdelĨlo
 piĨrate
@@ -117948,7 +117774,6 @@ piĨsisĨtance
 PiĨsisĨtratĨiĨdae
 PiĨsisĨtraĨtus
 piĨsoĨlite
-piĨsĨ-
 piĨta
 piĨtanĨga
 PiĨtaĨna
@@ -118566,7 +118391,6 @@ PlinĨy
 plisĨkie
 plisĨs
 plisĨse
-plisĨsĨ-
 PlisĨtheĨnes
 pliĨant
 pliĨantĨly
@@ -118589,7 +118413,6 @@ pliĨers
 pliĨkit
 PliĨoĨcene
 PliĨoĨfilm
-pliĨ-
 pliĨ-s
 ploat
 plod
@@ -118766,7 +118589,6 @@ plyĨing
 plyĨingĨly
 plyĨwood
 Plzen
-plĨ-sĨ-
 plĨ-sĨ-s
 PlĨ-iade
 PlĨze
@@ -118916,7 +118738,6 @@ pointĨlessĨly
 pointĨlessĨness
 pointĨwise
 PoinĨcaĨr
-PoinĨcaĨrĨ-
 poinĨciĨanĨa
 poinĨciĨaĨna
 poinĨsetĨtiĨa
@@ -118925,7 +118746,6 @@ poinĨtel
 PoinĨtilĨlism
 poinĨtilĨlism
 poinĨtilĨlist
-poinĨtilĨlĨ-
 poise
 poised
 poisĨer
@@ -120309,8 +120129,6 @@ pouf
 pouffe
 PoughĨkeepĨsie
 PouilĨly
-PouilĨlyĨ-FuisĨsĨ-
-PouilĨlyĨ-FuĨmĨ-
 PouilĨlyĨsurĨ-Loire
 poult
 poulĨterĨer
@@ -120337,7 +120155,6 @@ pourĨer
 pourĨparĨler
 pourĨpoint
 pousseĨ-caĨf
-pousseĨ-caĨfĨ-
 pousĨsette
 pousĨsetĨted
 pousĨsetĨting
@@ -120650,7 +120467,6 @@ poĨnyĨ trekĨking
 poĨnyĨing
 poĨnyĨtail
 PoĨoĨp
-PoĨoĨpĨ-
 PoĨpaĨyĨ-n
 PoĨpov
 PoĨpoĨcatĨeĨpetl
@@ -120747,7 +120563,6 @@ PoĨtoĨmac
 poĨtoĨroo
 PoĨtoĨs
 PoĨtoĨsi
-PoĨtoĨsĨ-
 poĨtus
 PoĨtyomĨkin
 PoĨyang
@@ -120844,7 +120659,6 @@ prase
 prat
 prate
 PrattĨville
-PratĨdeĨsaĨbĨ-
 pratĨer
 pratĨfall
 pratĨingĨly
@@ -127837,7 +127651,6 @@ pyĨthonĨic
 pyĨthoĨgenĨeĨsis
 pyĨthoĨness
 pyĨuĨriĨa
-pĨ-tĨ-
 PĨ-riĨgord
 PĨ-tain
 PĨ-o
@@ -128975,7 +128788,6 @@ quibĨble
 quibĨbler
 quibĨbling
 quibĨblingĨly
-QuibĨdĨ-
 quibĨus
 quiche
 QuichĨua
@@ -129810,7 +129622,6 @@ ratĨiĨfiĨer
 ratĨiĨfy
 ratĨiĨfyĨing
 ratĨiĨn
-ratĨiĨnĨ-
 RatĨlam
 ratĨlike
 ratĨlin
@@ -130886,7 +130697,6 @@ renĨoĨvaĨtive
 renĨoĨvaĨtor
 renĨtier
 RenĨton
-renĨverĨsĨ-
 renĨvoi
 rep
 Rep
@@ -131098,7 +130908,6 @@ retĨro
 retĨroĨ-opĨerĨaĨtive
 retĨroĨ-rock
 retĨrousĨsage
-retĨrousĨsĨ-
 retĨroĨact
 retĨroĨacĨtion
 retĨroĨacĨtive
@@ -131813,7 +131622,6 @@ reĨcepĨtiĨbilĨiĨty
 reĨcepĨtor
 reĨcepĨtuĨal
 reĨcepĨtuĨalĨly
-reĨcerĨceĨlĨ-
 reĨcerĨceĨlĨ-e
 reĨcerĨtiĨfied
 reĨcerĨtiĨfiĨcaĨtion
@@ -133507,7 +133315,6 @@ reĨlevĨer
 reĨlevĨied
 reĨlevĨy
 reĨlevĨyĨing
-reĨleĨvĨ-
 reĨlibĨerĨate
 reĨlibĨerĨatĨed
 reĨlibĨerĨatĨing
@@ -133909,7 +133716,6 @@ reĨnunĨciĨaĨtoĨry
 reĨnuĨmerĨate
 reĨnuĨmerĨatĨed
 reĨnuĨmerĨatĨing
-ReĨnĨ-
 ReĨnĨ-e
 reĨobĨject
 reĨobĨlige
@@ -134199,7 +134005,6 @@ reĨpot
 reĨpour
 reĨpousĨs
 reĨpousĨsage
-reĨpousĨsĨ-
 reĨpoĨlarĨize
 reĨpoĨlarĨized
 reĨpoĨlarĨizĨing
@@ -135017,7 +134822,6 @@ reĨtiĨarĨiĨi
 reĨtiĨarĨiĨus
 reĨtiĨarĨy
 reĨtiĨform
-reĨtiĨrĨ-
 reĨtiĨtle
 reĨtoast
 reĨtold
@@ -136021,7 +135825,6 @@ risĨiĨble
 risĨqu
 risĨsole
 risĨsoles
-risĨsoĨlĨ-
 rit
 rite
 riteĨ ofĨ pasĨsage
@@ -136796,7 +136599,6 @@ rouĨtinĨist
 rouĨtinĨize
 rouĨtinĨized
 rouĨtinĨizĨing
-rouĨ-
 rove
 roveĨ beeĨtle
 roveĨ-oĨver
@@ -137065,7 +136867,6 @@ RoĨsiĨta
 RoĨstovĨtzeff
 RoĨsy
 RoĨszak
-roĨsĨ-
 roĨta
 RoĨta
 RoĨtarĨiĨan
@@ -137579,7 +137380,6 @@ RĨ-gĨnault
 rĨ-pĨerĨtoire
 RĨ-auĨmur
 RĨ-caĨmier
-rĨ-chaufĨfĨ-
 rĨ-clame
 RĨ-gence
 rĨ-gime
@@ -137589,7 +137389,6 @@ rĨ-mouĨlade
 rĨ-pĨ-tiĨteur
 rĨ-siĨstant
 rĨ-siĨstante
-rĨ-suĨmĨ-
 RĨ-uĨnion
 RĨ-o
 RĨ-muĨlo
@@ -138793,7 +138592,6 @@ sauĨsageĨ roll
 sauĨsageĨlike
 sauĨt
 SauĨternes
-sauĨtĨ-
 sav
 save
 Save
@@ -139003,7 +138801,6 @@ saĨki
 saĨkorĨ saĨki
 SaĨkunĨtaĨla
 SaĨkyaĨmuĨni
-saĨkĨ-
 SaĨl
 saĨlaam
 saĨlaamĨlike
@@ -143179,7 +142976,6 @@ SeĨgni
 seĨgno
 seĨgo
 SeĨgoĨviĨa
-SeĨgrĨ-
 seĨgue
 seĨguiĨdilĨla
 seĨguiĨdilĨlas
@@ -144216,7 +144012,6 @@ ShiĨniĨchiĨro
 ShiĨr
 ShiĨraz
 shiĨraĨlee
-ShiĨrĨ-
 ShiĨrĨlands
 ShiĨva
 shiĨvah
@@ -144911,7 +144706,6 @@ silĨiĨcotĨic
 silĨiĨcoĨsis
 silĨiĨqua
 SilĨlanĨpaa
-SilĨlanĨpĨ--
 silĨlaĨbub
 silĨler
 silĨliĨbub
@@ -147077,7 +146871,6 @@ soilĨure
 SoisĨsons
 soixĨanteĨ-neuf
 soiĨgn
-soiĨgnĨ-
 soiĨgnĨ-e
 soiĨree
 soiĨrĨ-e
@@ -147462,7 +147255,6 @@ souĨ marĨqu
 sou'ĨwestĨer
 soufĨfle
 SoufĨflot
-soufĨflĨ-
 soufĨflĨ-ed
 soufĨflĨ-ing
 sough
@@ -154090,7 +153882,6 @@ supĨpuĨratĨed
 supĨpuĨratĨing
 supĨpuĨraĨtion
 supĨpuĨraĨtive
-SupĨpĨ-
 suq
 Sur
 sur
@@ -156501,7 +156292,6 @@ SzyĨmaĨnowĨski
 SĨ-nĨdor
 sĨ-ance
 SĨ-kou
-SĨ-viĨgnĨ-
 SĨ-mĨmerĨing
 SĨ-derĨblom
 sĨ-rĨchĨ-rjĨcharged
@@ -158155,7 +157945,6 @@ tenĨnisĨ shoe
 tenĨno
 TenĨnyĨson
 TenĨnyĨsoĨniĨan
-tenĨnĨ-
 tenĨon
 tenĨonĨ saw
 tenĨonĨer
@@ -158362,7 +158151,6 @@ terĨrifĨic
 terĨrifĨiĨcalĨly
 terĨrigĨeĨnous
 terĨrine
-terĨriĨbiĨliĨtĨ-
 terĨriĨble
 terĨriĨbleĨness
 terĨriĨbly
@@ -159175,7 +158963,6 @@ theĨolĨoĨgiĨzaĨtion
 theĨolĨoĨgy
 theĨomĨaĨchy
 theĨonĨoĨmy
-TheĨonĨoĨ-
 theĨophĨaĨgy
 TheĨophĨaĨne
 theĨophĨaĨny
@@ -160369,7 +160156,6 @@ TiĨgr
 tiĨgress
 TiĨgris
 TiĨgriĨnya
-TiĨgrĨ-
 TiĨhua
 TiĨhwa
 TiĨjuaĨna
@@ -161041,7 +160827,6 @@ toutĨer
 touĨcan
 touĨcanĨet
 touĨch
-touĨchĨ-
 TouĨlon
 TouĨlouse
 TouĨlouseĨ-LauĨtrec
@@ -161051,7 +160836,6 @@ TouĨraine
 TouĨrane
 touĨraĨco
 touĨrelle
-TouĨrĨ-
 touĨsle
 touĨzle
 tow
@@ -163790,7 +163574,6 @@ tuĨlipĨ tree
 tuĨlipĨlike
 tuĨlipĨoĨmaĨniĨa
 tuĨlipĨwood
-TuĨluĨ-
 TuĨlĨ-ar
 TuĨmaĨco
 tuĨmesĨcent
@@ -163833,7 +163616,6 @@ TuĨpiĨ-GuaĨraĨniĨan
 TuĨpiĨan
 TuĨpoĨlev
 TuĨpunĨgaĨto
-TuĨpĨ-
 TuĨra
 TuĨranĨdot
 tuĨraĨco
@@ -168223,7 +168005,6 @@ unĨdyĨingĨness
 unĨdyĨnamĨic
 unĨdyĨnamĨiĨcalĨly
 unĨdyĨnaĨmitĨed
-unĨdĨ-
 unĨdĨ-e
 unĨearned
 unĨearnedĨ inĨcome
@@ -176353,7 +176134,6 @@ UrĨdar
 urĨdorĨ urĨd
 UrĨdu
 urĨdy
-urĨdĨ-
 UrĨfa
 UrĨga
 UrĨgel
@@ -176880,8 +176660,6 @@ uĨvuĨlatĨoĨmy
 uĨvuĨlecĨtoĨmy
 uĨvuĨliĨtis
 uĨvuĨlotĨoĨmy
-VĨ--
-VĨ--
 VĨ-Day
 VĨ-eight
 VĨ-sign
@@ -176925,7 +176703,6 @@ vacĨuĨumĨ pump
 vacĨuĨumĨ tube
 vacĨuĨumĨ-packed
 vacĨuĨums
-VadsĨ-
 vague
 vagueĨly
 vagueĨness
@@ -178066,7 +177843,6 @@ veĨlocĨiĨtyĨ modĨuĨlaĨtion
 veĨlour
 veĨlours
 veĨlouĨt
-veĨlouĨtĨ-
 veĨloĨce
 veĨloĨdrome
 VeĨloĨrum
@@ -178906,7 +178682,6 @@ viĨsionĨarĨy
 viĨsionĨless
 viĨsor
 viĨsorĨless
-viĨsĨ-
 viĨsĨ-ed
 viĨsĨ-ing
 viĨta
@@ -179048,7 +178823,6 @@ voidĨer
 voidĨness
 voile
 voixĨ cĨleste
-voiĨlĨ-
 VoiĨoĨtiĨa
 voiĨture
 VoiĨvoĨdiĨna
@@ -179384,7 +179158,6 @@ vyĨingĨly
 VyĨrene
 VyĨshinĨsky
 vZi
-VĨ-iĨsĨ-lĨ-
 VĨ-tĨter
 VĨ-tĨtern
 VĨ-ner
@@ -183379,7 +183152,6 @@ xeĨroĨsere
 xeĨroĨsis
 XhoĨsa
 XinĨg
-XinĨgĨ-
 xiphĨiĨsterĨnal
 xiphĨiĨsterĨnum
 xiphĨoid
@@ -183475,7 +183247,6 @@ YamĨaĨgaĨta
 YamĨaĨshiĨta
 yamĨmer
 Yang
-YangĨkĨ-
 YangĨtze
 YangĨtzeĨ-Kiang
 yank
@@ -183574,7 +183345,6 @@ YaĨmi
 YaĨna
 YaĨniĨna
 YaĨounĨdorĨ YaĨunĨde
-YaĨounĨdĨ-
 yaĨpok
 yaĨpon
 YaĨpuĨr
