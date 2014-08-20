@@ -15484,9 +15484,6 @@ BiaĨlyĨstok
 Bib
 bib
 bibĨ andĨ tuckĨer
-bibb
-bibl
-Bibl
 bibliog
 bibĨber
 BibĨbieĨna
@@ -143261,17 +143258,12 @@ SeĨzesĨsion
 seĨ-oĨra
 seĨ-oĨras
 seĨ-oĨriĨta
-Sfax
-sferĨics
 SforĨza
 sforĨzanĨdo
 sforĨzaĨto
 sfuĨmaĨto
-sfz
 sgaĨbelĨlo
-sgd
 sgrafĨfiĨto
-Sgt
 ShaaĨban
 ShabĨbas
 ShabĨbat
