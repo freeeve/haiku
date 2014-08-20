@@ -30,6 +30,9 @@ func main() {
 
 	for {
 		accessToken := &oauth.AccessToken{Token: accessTokenKey, Secret: accessTokenSecret}
+
+		// get the latest syllable data
+		readDataFile()
 		haiku := generateHaiku()
 		_, err := c.Post(
 			"https://api.twitter.com/1.1/statuses/update.json",
@@ -53,7 +56,7 @@ var (
 	five  = []string{}
 )
 
-func init() {
+func readDataFile() {
 	filename := os.Args[1]
 
 	file, err := os.Open(filename)
@@ -84,6 +87,8 @@ func init() {
 			five = append(five, stripped)
 		}
 	}
+
+	defer file.Close()
 }
 
 func generateHaiku() string {
