@@ -55747,7 +55747,6 @@ flaĨvoĨbacĨteĨriĨum
 flaĨvoĨnol
 flaĨvoĨproĨtein
 flaĨvoĨpurĨpuĨrin
-fld
 flea
 fleaĨ beeĨtle
 fleaĨ marĨket
@@ -161999,7 +161998,6 @@ treeĨlined
 treeĨnail
 treeĨtop
 treeĨwax
-tref
 treilĨlage
 TreitschĨke
 trek
