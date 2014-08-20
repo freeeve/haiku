@@ -1978,7 +1978,6 @@ afĨterĨwards
 afĨterĨword
 afĨterĨworld
 afĨterĨyears
-agcy
 age
 ageĨ harĨdenĨing
 ageĨ ofĨ conĨsent
@@ -1988,10 +1987,7 @@ ageĨing
 ageĨless
 ageĨlessĨness
 ageĨlong
-agr
 agric
-AgriĨgento
-agt
 agĨalĨmatĨoĨlite
 agĨalĨwood
 AgĨasĨsiz
@@ -2344,7 +2340,6 @@ AirĨy
 airĨy
 airĨyĨ-fairĨy
 aisle
-ait
 aitch
 aitchĨbone
 AitĨken
@@ -2382,7 +2377,6 @@ AiĨmee
 AiĨnu
 AjĨmer
 AjĨmerĨ-MerĨwaĨra
-ake
 AkeĨley
 akeĨton
 AkhĨeĨtaĨton
@@ -3466,9 +3460,6 @@ ambsĨace
 amesĨace
 AmesĨburĨy
 amn't
-amp
-amt
-amu
 AmĨalĨthaeĨa
 AmĨalĨtheĨa
 amĨauĨrotĨic
@@ -126231,15 +126222,12 @@ proĨvostĨ marĨshal
 proĨvoĨloĨne
 proĨwar
 ProĨzess
-prs
-Pru
 prude
 prudĨerĨies
 prudĨerĨy
 prudĨish
 prudĨishĨly
 prudĨishĨness
-Prue
 prune
 prunt
 pruntĨed
@@ -126249,7 +126237,6 @@ prunĨaĨbleĨness
 prunĨer
 prunĨing
 prunĨingĨ hook
-Prus
 PrusĨsia
 PrusĨsian
 PrusĨsianĨ blue
@@ -126267,8 +126254,6 @@ prusĨsianĨizĨing
 prusĨsianĨiĨzaĨtion
 prusĨsicĨ acĨid
 prusĨsiĨate
-Prut
-PruĨd'hon
 PruĨdence
 pruĨdence
 pruĨdent
@@ -126303,7 +126288,6 @@ pryĨingĨly
 pryĨingĨness
 PryĨlis
 PrzeĨmy
-PrzeĨwalĨski'sĨ horse
 prĨ-cieuse
 prĨ-cieusĨes
 prĨ-cieux
@@ -126314,7 +126298,6 @@ prĨ-nĨciĨpe
 prĨcis
 PrĨvert
 PrĨvostĨ d'ExĨiles
-Psa
 psalm
 Psalms
 psalmĨbook

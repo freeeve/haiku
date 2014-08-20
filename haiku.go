@@ -54,6 +54,8 @@ var (
 	three = []string{}
 	four  = []string{}
 	five  = []string{}
+	six   = []string{}
+	seven = []string{}
 )
 
 func readDataFile() {
@@ -63,6 +65,8 @@ func readDataFile() {
 	three = []string{}
 	four = []string{}
 	five = []string{}
+	six = []string{}
+	seven = []string{}
 
 	filename := os.Args[1]
 
@@ -92,6 +96,10 @@ func readDataFile() {
 			four = append(four, stripped)
 		case 5:
 			five = append(five, stripped)
+		case 6:
+			six = append(six, stripped)
+		case 7:
+			seven = append(seven, stripped)
 		}
 	}
 
@@ -112,9 +120,6 @@ func getLine(n int) string {
 func getLineHelper(ret string, left int) string {
 	r := rand.New(rand.NewSource(time.Now().UnixNano()))
 	x := r.Intn(left) + 1
-	if x > 5 {
-		x = 5
-	}
 	switch x {
 	case 1:
 		ret += one[r.Intn(len(one))] + " "
@@ -126,6 +131,10 @@ func getLineHelper(ret string, left int) string {
 		ret += four[r.Intn(len(four))] + " "
 	case 5:
 		ret += five[r.Intn(len(five))] + " "
+	case 6:
+		ret += six[r.Intn(len(six))] + " "
+	case 7:
+		ret += seven[r.Intn(len(seven))] + " "
 	}
 	if left-x == 0 {
 		return ret
