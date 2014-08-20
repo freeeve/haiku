@@ -44,7 +44,7 @@ func main() {
 		if err != nil {
 			fmt.Println(err)
 		}
-		time.Sleep(1 * time.Minute)
+		time.Sleep(30 * time.Second)
 	}
 }
 

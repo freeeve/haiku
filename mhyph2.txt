@@ -33571,7 +33571,6 @@ cowlĨ neckĨline
 cowled
 cowlĨing
 cowlĨstaff
-cowp
 cowĨage
 CowĨard
 cowĨard
@@ -60059,7 +60058,6 @@ gawkĨiĨest
 gawkĨiĨly
 gawkĨiĨness
 gawkĨy
-gawp
 GawĨra
 gawĨsie
 gawĨsy
@@ -80236,7 +80234,6 @@ javĨaĨnine
 JavĨelĨ waĨter
 JavĨelleĨ waĨter
 jaw
-jawp
 jaws
 jawĨbone
 jawĨboned
@@ -151202,7 +151199,6 @@ Stow
 stow
 Stowe
 stownĨlins
-stowp
 stowĨage
 stowĨaĨway
 stoĨa
@@ -164028,7 +164024,6 @@ twoĨpenĨny
 twoĨsome
 twoĨstepped
 twoĨstepĨping
-twp
 twyĨer
 tychĨism
 tye
