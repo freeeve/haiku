@@ -57,6 +57,13 @@ var (
 )
 
 func readDataFile() {
+	//reset
+	one = []string{}
+	two = []string{}
+	three = []string{}
+	four = []string{}
+	five = []string{}
+
 	filename := os.Args[1]
 
 	file, err := os.Open(filename)
