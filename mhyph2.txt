@@ -120752,9 +120752,6 @@ poĨtus
 PoĨtyomĨkin
 PoĨyang
 PoĨzsony
-ppd
-ppm
-ppr
 praam
 pracĨtic
 pracĨtice
@@ -183389,11 +183386,9 @@ xiphĨoid
 xiphĨoĨsuĨran
 XiĨmeĨnes
 XiĨpe
-Xnty
 xoĨaĨnon
 XoĨpher
 Xtian
-Xty
 XuĨthus
 xyst
 xysĨter
