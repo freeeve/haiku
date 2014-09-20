@@ -8,6 +8,7 @@ import (
 	"strings"
 	"time"
 
+	"bitbucket.org/wfreeman/nlp-data-usenet-english"
 	"github.com/mrjones/oauth"
 )
 
@@ -28,12 +29,15 @@ func main() {
 			AccessTokenUrl:    "https://api.twitter.com/oauth/access_token",
 		})
 
+	readDataFile()
 	for {
 		accessToken := &oauth.AccessToken{Token: accessTokenKey, Secret: accessTokenSecret}
 
 		// get the latest syllable data
-		readDataFile()
-		haiku := generateHaiku()
+		//readDataFile()
+		haiku := ""
+		haiku = generateHaiku()
+
 		_, err := c.Post(
 			"https://api.twitter.com/1.1/statuses/update.json",
 			map[string]string{
@@ -44,7 +48,7 @@ func main() {
 		if err != nil {
 			fmt.Println(err)
 		}
-		time.Sleep(2 * time.Minute)
+		//time.Sleep(1 * time.Minute)
 	}
 }
 
@@ -114,7 +118,20 @@ func generateHaiku() string {
 }
 
 func getLine(n int) string {
-	return getLineHelper("", n)
+	ret := ""
+	for tries := 1000000; tries > 0; tries-- {
+		ret = getLineHelper("", n)
+		if usenet.Prob(ret) > 0 {
+			break
+		}
+	}
+	for tries := 10000; tries > 0; tries-- {
+		if usenet.ProbLoose(ret) > 0 {
+			break
+		}
+		ret = getLineHelper("", n)
+	}
+	return ret
 }
 
 func getLineHelper(ret string, left int) string {
